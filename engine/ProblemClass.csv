@@ -1,0 +1,352 @@
+Availability,Host CHDPRVZEN001: 10.56.134.61 is unreachable.
+Availability,Host CSCHMV-RHZCOL01.cts.com: 10.118.243.67 is unreachable.
+Availability,Host ctsusbrwmon1: 10.243.0.84 is unreachable.
+Availability,VOYAMVZENOS010 zenmodeler heartbeat failure
+Availability,VOYAMVZENOS010 zenstatus heartbeat failure
+Performance,High CPU Utilization: Currently 91.0%
+Performance,High CPU Utilization: Currently 90.3%
+Performance,High CPU Utilization: Currently 90.5%
+Performance,High CPU Utilization: Currently 91.3%
+Performance,High CPU Utilization: Currently 90.0%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 91.7%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 90.2%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 92.4%
+Performance,High CPU Utilization: Currently 90.8%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 90.6%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 90.2%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 92.1%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 91.8%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 2 out of a total of 2 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 2 out of a total of 2 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 2 out of a total of 2 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 2 out of a total of 2 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 2 out of a total of 2 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 2 out of a total of 2 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 2 out of a total of 2 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 91.7%
+Performance,High CPU Utilization: Currently 90.7%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 2 out of a total of 2 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 91.0%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High CPU Utilization: Currently 90.7%
+Performance,High CPU Utilization: Currently 91.5%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 90.5%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High CPU Utilization: Currently 90.6%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 91.4%
+Performance,High CPU Utilization: Currently 91.9%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 90.2%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High CPU Utilization: Currently 90.6%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High CPU Utilization: Currently 90.5% 
+Performance,High CPU Utilization: Currently 90.2%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 2 out of a total of 2 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High CPU Utilization: Currently 94.2%
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_Warn) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of 8053061222.4 or the minimum threshold of 13421768704.0
+Performance,High Queue Latency Threshold Violation Detected. Currently 100.00% of the (SwapFreeSpace_error) data values 1 out of a total of 1 in the last 10 minutes violated the maximum threshold of (not defined) or the minimum threshold of 8053061222.4
+Availability,Host VOYAMV-ZENOS01-0.cmci.cognizantdc.com: 10.118.58.97 is unreachable.
+Availability,localhost zenactiond heartbeat failure
+Availability,localhost zeneventetl heartbeat failure
+Availability,localhost zenhub heartbeat failure
+Availability,localhost zenmodeler heartbeat failure
+Availability,localhost zenmodeletl heartbeat failure
+Availability,VOYAMVZENOS010 zenmodeler heartbeat failure
+Availability,VOYAMVZENOS010 zenstatus heartbeat failure
+Availability,localhost zeneventd heartbeat failure
+Availability,localhost zenstatus heartbeat failure
+Availability,localhost zenprocess heartbeat failure
+Availability,localhost zencommand heartbeat failure 
+Availability,localhost zenjmx heartbeat failure
+Availability,localhost zenmailtx heartbeat failure
+Availability,localhost zenpython heartbeat failure
+Availability,localhost zenperfsnmp heartbeat failure
+Availability,localhost zenucsevents heartbeat failure
+Availability,VOYAMVZENOS010 zenjmx heartbeat failure
+Availability,VOYAMVZENOS010 zenpython heartbeat failure
+Availability,VOYAMVZENOS010 zensyslog heartbeat failure
+Availability,VOYAMVZENOS010 zentrap heartbeat failure
+Availability,localhost zenwebtx heartbeat failure
+Performance,Memory Available low: current used 90.0%
+Performance,Memory Available low: current used 90.1%
+Availability,Blocked Session(s)
+Performance,Memory Available low: current used 91.1%
+Availability,Failed to Ping Computer
+Performance,Memory Pages Per Second is too High.
+Availability,Host DR-BC2-BAY2-SW: 10.241.10.29 is unreachable.
+Performance,Memory Available low: current used 97.3%
+Performance,High  Utilization on Interface GigabitEthernet0/1 : Currently 175.78% used (43.20 Mbps)
+Performance,Memory Available low: current used 90.0%
+Performance,Logical disk transfer (reads and writes) latency  is too high
+Capacity,Disk Utilization:Currently  96% used (86.1GB free) on /shared/saswork
+Capacity,Disk Utilization:Currently  95% used (112.4GB free) on /shared/saswork
+Capacity,Disk Utilization:Currently  93% used (141.8GB free) on /shared/saswork
+Capacity,Disk Utilization:Currently  93% used (149.1GB free) on /shared/saswork
+Capacity,Disk Utilization:Currently  92% used (173.3GB free) on /shared/saswork
+Capacity,Disk Utilization:Currently  91% used (187.6GB free) on /shared/saswork
+Capacity,Disk Utilization:Currently  90% used (204.1GB free) on /shared/saswork
+Availability,Service Alert: TSM Sched - DCVM_LMG-DC_DM_MONTHLY_2 has changed to Stopped state
+Availability,Service Alert: TSM CAD - DCVM_LMG-DC_DM_WEEKLY has changed to Stopped state
+Availability,Service Alert: TSM CAD - DCVM_LMG-DC_DM_MONTHLY_2 has changed to Stopped state
+Availability,Service Alert: TSM CAD - DCVM_LMG-DC_DM has changed to Stopped state
+Availability,Service Alert: TSM CAD - DCVM_LMG-DC_DM_MONTHLY has changed to Stopped state
+Availability,Failed to ping or bind to the Schema Master FSMO role holder.
+Availability,no matching processes running
+Performance,High Entitled CPU Utilization: Currently 187.3%
+Performance,Memory Available low: current used 95.4%
+Performance,Memory Available low: current used 90.5%
+Performance,High Entitled CPU Utilization: Currently 97.8%
+Performance,High CPU Utilization: Currently 96.5%
+Performance,High CPU Utilization: Currently 91.0%
+Performance,High Entitled CPU Utilization: Currently 104.0%
+Performance,High  Utilization on Interface GigabitEthernet0/1 : Currently 96.78% used (991.03 Kbps)
+Availability,Host DR-BC2-BAY1-SW: 10.241.10.28 is unreachable.
+Availability,Host DR-BAY-2: 10.241.10.34 is unreachable.
+Performance,Memory Available low: current used 96.1%
+Performance,Memory Available low: current used 96.8%
+Performance,Memory Available low: current used 92.1%
+Performance,Memory Available low: current used 91.4%
+Performance,High CPU Utilization: Currently 90.1%
+Backup,DPM: Backup to tape failed (3311)
+Performance,High  Utilization on Interface GigabitEthernet0/1 : Currently 98.62% used (1.01 Mbps)
+Performance,Memory Available low: current used 90.7%
+Performance,High Entitled CPU Utilization: Currently 111.8%
+Performance,High Entitled CPU Utilization: Currently 142.2%
+Performance,Memory Available low: current used 95.1%
+Performance,Memory Available low: current used 97.2%
+Performance,Memory Available low: current used 97.9%
+Performance,High CPU Utilization: Currently 93.9%
+Performance,Memory Available low: current used 91.9%
+Availability,Service Alert: TSM Client Scheduler has changed to Stopped state
+Availability,Service Alert: Sophos Message Router has changed to Stopped state
+Availability,Service Alert: Sophos AutoUpdate Service has changed to Stopped state
+Availability,Service Alert: Sophos Agent has changed to Stopped state
+Availability,Service Alert: MSDTC has changed to Stopped state
+Availability,Service Alert: CRMDmgtd has changed to Stopped state
+Availability,Service Alert: BESClient has changed to Stopped state
+Performance,Memory Available low: current used 91.3%
+Performance,High  Utilization on Interface GigabitEthernet0/1 : Currently 98.36% used (1.01 Mbps)
+Performance,Memory Available low: current used 90.1%
+Availability,Host EMAX-Qatar-Villagio-DMVPN: 172.29.25.1 is unreachable.
+Performance,High Entitled CPU Utilization: Currently 189.0%
+Performance,High  Utilization on Interface GigabitEthernet9/36 : Currently 100.03% used (1.00 Gbps)
+Availability,Failed to ping or bind to the RID Master FSMO role holder.
+Performance,Memory Available low: current used 90.4%
+Availability,Service Alert: Sophos Agent has changed to Stop Pending state
+Performance,High  Utilization on Interface GigabitEthernet0/1 : Currently 129.86% used (1.33 Mbps)
+Availability,Service Alert: Sophos Management Service has changed to Stopped state
+Performance,High Entitled CPU Utilization: Currently 170.1%
+Performance,High CPU Utilization: Currently 100.0%
+Performance,High Entitled CPU Utilization: Currently 125.6%
+Capacity,Disk Utilization:Currently  83% used (1.3GB free) on /usr
+Availability,Service Alert: SharedAccess has changed to Stopped state
+Availability,Host LMG-CISCO-LMS.corp.cplmg.local: 10.20.30.16 is unreachable.
+Availability,Host AECO02ITDSWA016(1 of 5): 10.14.0.19 is unreachable.
+Performance,High Entitled CPU Utilization: Currently 90.5%
+Performance,High  Utilization on Interface GigabitEthernet0/0/5 : Currently 99.00% used (1.01 Gbps)
+Performance,High Entitled CPU Utilization: Currently 95.3%
+Availability,Service Alert: TSM Agent - DRVM_LMGDR_DM_MONTHLY has changed to Stopped state
+Availability,Failed to ping or bind to the Domain Naming Master FSMO role holder.
+Availability,FastEthernet1/0/14 current status: down
+Performance,Available Megabytes of Memory is too low
+Availability,DR-CollectorALL zensyslog heartbeat failure
+Availability,UAE-CollectorWIN zenvsphere heartbeat failure
+Availability,UAE-CollectorNET zenmodeler heartbeat failure
+Availability,UAE-CollectorLIN zenstatus heartbeat failure
+Availability,DR-CollectorALL zenstatus heartbeat failure
+Availability,DR-CollectorALL zenmodeler heartbeat failure
+Availability,Host LMLBNSOPHOSSVR: 172.29.129.15 is unreachable.
+Availability,Host lmqtrrmtribprmy: 172.29.0.12 is unreachable.
+Availability,Host lmqtrrmtribstby: 172.29.0.13 is unreachable.
+Availability,Host lmqtrrmtwmsprmy: 172.29.0.10 is unreachable.
+Availability,Host lmqtrrmtwmsstby: 172.29.0.11 is unreachable.
+Availability,Host lmegyrmtribstby: 172.24.155.74 is unreachable.
+Availability,Host lmegyrmtwmsprmy: 172.24.155.71 is unreachable.
+Availability,Host lmegyrmtribprmy: 172.24.155.73 is unreachable.
+Availability,Host lmegyrmtwmsstby: 172.24.155.72 is unreachable.
+Compliance,Group Policy processing has been aborted because the file gpt.ini cannot be accessed
+Compliance,Machine account policy failure - Active Directory GPO lookup failure
+Availability,Host AECO02ITDSWA015(1 of 5): 10.14.0.18 is unreachable.
+Performance,Memory Available low: current used 92.0%
+Performance,Memory Available low: current used 90.2%
+Performance,threshold of Sysuptime not met: current value 6050.000000
+Performance,The Op Master Domain Naming Master Last Bind latency is above the configured threshold
+Capacity,Disk Utilization:Currently  90% used (19.2GB free) on L: (Serial Number: FC777C75) - QV_SM_CON
+Availability,Host LMDBOMNVOXPRD01: 172.24.53.34 is unreachable.
+Availability,Host lmomnrmtribprmy: 172.24.53.13 is unreachable.
+Availability,Host lmomnrmtwmsstby: 172.24.53.12 is unreachable.
+Availability,Host lmomnrmtribstby: 172.24.53.14 is unreachable.
+Availability,Host lmomnrmtwmsprmy: 172.24.53.11 is unreachable.
+Availability,Host SM-AIA-AlMuwaji-MPLS: 172.20.35.129 is unreachable.
+Availability,threshold of Reboot not met: current value 180090.510170
+Availability,Service Alert: WECSVC has changed to Stopped state
+Availability,Host KSA-FF-MGR-DMVPN: 10.97.54.1 is unreachable.
+Performance,High  Utilization on Interface FastEthernet0/23 : Currently 98.49% used (98.49 Mbps)
+Performance,High  Utilization on Interface FastEthernet0/24 : Currently 98.49% used (98.49 Mbps)
+Availability,Service Alert: gpsvc has changed to Stop Pending state
+Capacity,Disk Utilization:Currently  85% used (921.5MB free) on /var
+Availability,Service Alert: UALSVC has changed to Stopped state
+Availability,Service Alert: DPS has changed to Stopped state
+Performance,High  Utilization on Interface GigabitEthernet0/1 : Currently 96.74% used (990.66 Kbps)
+Performance,High Entitled CPU Utilization: Currently 112.0%
+Capacity,Disk Utilization:Currently  90% used (19.9GB free) on L: (Serial Number: FC777C75) - QV_SM_CON
+Availability,Service Alert: ProfSvc has changed to Stopped state
+Capacity,Disk Utilization:Currently  99% used (2.3GB free) on D: (Serial Number: 4092EA0E) - New Volume
+Performance,Memory Available low: current used 90.6%
+Performance,High Entitled CPU Utilization: Currently 112.5%
+Performance,Memory Available low: current used 90.3%
+Performance,Memory Available low: current used 92.5%
+Performance,High  Utilization on Interface GigabitEthernet0/1 : Currently 95.10% used (973.78 Kbps)
+Capacity,Disk Utilization:Currently  90% used (39.8GB free) on E: (Serial Number: 347F0E16) - New Volume
+Availability,Service Alert: UxSms has changed to Stopped state
+Availability,Service Alert: TrkWks has changed to Stopped state
+Performance,High  Utilization on Interface GigabitEthernet0/0/5 : Currently 98.08% used (1.00 Gbps)
+Performance,High CPU Utilization: Currently 90.7%
+Performance,High  Utilization on Interface GigabitEthernet0/1 : Currently 96.72% used (990.45 Kbps)
+Performance,High  Utilization on Interface GigabitEthernet0/0/5 : Currently 98.39% used (1.01 Gbps)
+Performance,High Entitled CPU Utilization: Currently 139.8%
+Performance,Memory Available low: current used 91.7%
+Performance,High Entitled CPU Utilization: Currently 111.6%
+Performance,Memory Available low: current used 92.2%
+Capacity,Disk Utilization:Currently  90% used (9.9GB free) on D: (Serial Number: B02A3392) - QVCONFIG
+Performance,Memory Available low: current used 93.2%
+Performance,High Entitled CPU Utilization: Currently 108.7%
+Availability,DR-CollectorALL zencommand heartbeat failure
+Performance,Memory Available low: current used 91.2%
+Backup,DP VMWare: ANS4174E Full VM backup of VMware Virtual Machine 'LMAPHQSSMTPRD01' failed with RC=7305 mode=Incremental Forever - Incremental target node name='DCVM_LMG-DC' data mover node name='DCVM_LMG-DC_DM'
+Performance,Virtual machine SPL-CON-SVR disks consolidation failed on lmvmhqsesxprd08.cplmg.local in cluster LMG-DC-Cluster in LMG-DC.
+Performance,High CPU Utilization: Currently 90.2%
+Performance,Virtual machine LMAPHQSSFPPRD04 disks consolidation is needed on lmvmhqsesxprd06.cplmg.local in cluster LMG-DC-Cluster in LMG-DC.
+Performance,OEM Alert: Host : lmdbhqsebsprd02.cplmg.local: DB : lmdbhqsebsprd02.cplmg.local:3872 : Category :Diagnostics: Internal error detected: java.lang.NullPointerException:oracle.sysman.gcagent.state.StateMgr:1096.
+Capacity,Disk Utilization:Currently  93% used (10.0GB free) on D: (Serial Number: 58FEE7C3) - Application
+Performance,bigipDiskPartitionWarn: The disk partition free space is very limited which is
+Performance,Memory Available low: current used 92.6%
+Performance,Federation Passive Request Failed On The Federation Server Proxy
+Performance,threshold of Reboot not met: current value 63121.248700
+Performance,Host LMI-REISS-MRCT-MPLS: 172.23.169.1 is unreachable.
+Performance,"Reattempting snapshot with ""VMware Tools with file system quiescing and application quiescing (VSS) disabled"" snaps"
+Performance,Percentage Logical Disk Free Space is low
+Performance,Service Alert: HealthService has changed to Start Pending state
+Capacity,Service Alert: MpsSvc has changed to Stopped state
+Performance,Disk Utilization:Currently  85% used (662.2MB free) on /var/log
+Capacity,Unable to access witness resource
+Performance,Service Alert: gpsvc has changed to Stopped state
+Performance,AD ADWS Service Check - Script Based Test Failed to Complete
+Performance,Windows DNS - WMI Validation Failed
+Performance,Service Alert: CitrixWMIService has changed to Stopped state
+Capacity,Memory Available low: current used 90.8%
+Performance,High Entitled CPU Utilization: Currently 227.6%
+Capacity,Used total bandwidth is over threshold
+Performance,Memory Available low: current used 91.5%
+Performance,Host FM-CARLTDIC-DMVPN: 172.21.213.1 is unreachable.
+Performance,threshold of Reboot not met: current value 113032.773000
+Performance,threshold of Reboot not met: current value 124301.843040
+Capacity,Service Alert: VSS has changed to Stopped state
+Performance,threshold of Reboot not met: current value 86284.347000
+Performance,less than a specified limit
+Performance,threshold of Reboot not met: current value 71912.939220
+Performance,Disk Utilization:Currently  85% used (383.9MB free) on /var
+Performance,Memory Available low: current used 97.4%
+Performance,Memory Available low: current used 91.0%
+Performance,Memory Available low: current used 91.6%
+Performance,Disk Utilization:Currently  93% used (14.3GB free) on L: (Serial Number: FC777C75) - QV_SM_CON
+Performance,Memory Available low: current used 94.9%
+Performance,bigipServiceDown: A service is detected DOWN
+Capacity,Many Corrupt or Unreadable Windows Events
+Performance,Disk Utilization:Currently  93% used (4.2GB free) on C: (Serial Number: 1031D69A)
+Performance,Host lmrydwmsap1: 172.26.200.92 is unreachable.
+Performance,Host lmrydrmtribprmy: 172.26.200.73 is unreachable.
+Performance,Host lmrydwmsapstby: 172.26.200.74 is unreachable.
+Performance,Host lmrydwmsdbpry2: 172.26.199.11 is unreachable.
+Performance,Host LMRYDV3700: 172.26.200.149 is unreachable.
+Performance,Memory Available low: current used 99.5%
+Performance,High Entitled CPU Utilization: Currently 101.8%
+Performance,High Entitled CPU Utilization: Currently 119.8%
+Performance,Memory Available low: current used 94.5%
+Performance,OEM Alert: Host : HCDBHQSGDMPRD01.cplmg.local: DB : GDMS_HCDBHQSGDMPRD01.cplmg.local : Category :Fault: ORA-error stack (12541 12541 12541 12541) logged in /u01/rdbms/diag/rdbms/gdms/GDMS/trace/alert_GDMS.log.
+Performance,Application Pool worker process is unresponsive
+Capacity,OEM Alert: Host : lmdbhqsanpprd02.cplmg.local: DB : PARCSBL_lmdbhqsanpprd02.cplmg.local : Category :Error:  Metric collection evaluation extending beyond interval of 900 seconds
+Performance,Memory Available low: current used 92.4%
+Capacity,HP ProLiant System Shutdown Service failed.
+Capacity,HP Insight NIC Agents failed.
+Performance,HP Insight Storage Agents failed.
+Capacity,HP Insight Foundation Agents failed.
+Capacity,HP Insight Server Agents failed.
+Capacity,HP System Management Homepage failed.
+Capacity,The WMI Service is not running
+Capacity,High CPU Utilization: Currently 97.4%
+Capacity,Disk Utilization:Currently  90% used (15.0GB free) on /scprdbms
+Capacity,Failed to Connect to Computer
+Capacity,OEM Alert: Host : lmitdmmmftprd01.dammam.cpksa.local: DB : MFTDMMPR_lmitdmmmftprd01.dammam.cpksa.local : Category :Capacity: The value of Tablespace Percent Used for UC4_INDEX is 91.03
+Capacity,Disk Utilization:Currently  90% used (39.7GB free) on E: (Serial Number: 347F0E16) - New Volume
+Capacity,Disk Utilization:Currently  93% used (21.5GB free) on D: (Serial Number: 247DB1EE) - New Volume
+Performance,Disk Utilization:Currently  91% used (7.3GB free) on C: (Serial Number: 0065BA5C)
+Capacity,Disk Utilization:Currently  99% used (4.5GB free) on /EMPROD/oradata3
+Capacity,Disk Utilization:Currently  98% used (8.4GB free) on /EMPROD/oradata1
+Capacity,Disk Utilization:Currently  91% used (23.4GB free) on E: (Serial Number: 9C3C12E8) - QV_MAX_LMI
+Performance,Disk Utilization:Currently  99% used (3.6GB free) on /EMPROD/oradata2
+Performance,Disk Utilization:Currently  90% used (9.8GB free) on /integration
+Performance,Disk Utilization:Currently  87% used (260.7MB free) on /var
+Performance,Memory Available low: current used 94.1%
+Performance,Datasource Device/io command timed out
+Performance,Memory Available low: current used 95.8%
+Performance,Memory Available low: current used 93.5%
+Performance,Service Alert: Oracleagent12c2Agent has changed to Start Pending state
+Performance,Memory Available low: current used 94.3%
+Performance,High  Utilization on Interface FastEthernet0/0/0 : Currently 225.87% used (9.25 Mbps)
+Performance,Memory Available low: current used 93.7%
+Capacity,High  Utilization on Interface GigabitEthernet0/1 : Currently 96.69% used (990.14 Kbps)
+Performance,High  Utilization on Interface GigabitEthernet0/1 : Currently 114.41% used (28.12 Mbps)
+Compliance,A user from a different forest logged onto this machine. Group policy processing has been effected.
+Performance,Memory Available low: current used 95.3%
+Capacity,High CPU Utilization: Currently 96.7%
+Backup,Database Backup Failed To Complete
+Capacity,High CPU Utilization: Currently 95.3%
+Availability,IIS 7 Web Site is unavailable
+Backup,OEM Alert: Host : dcsibdbpr00.cplmg.local: DB : crmprdsb_dcsibdbpr00.cplmg.local : Category :Load: No Archivelog backup since   393 Minutes
+Performance,threshold of 90 percent used exceeded: current value 10977492.000000
+Performance,Federation Passive Sign-Out Error On The Federation Server Proxy
+Performance,The AD Last Bind latency is above the configured threshold.
+Performance,Memory Available low: current used 93.9%
+Capacity,threshold of low disk space1 violated: current value 7921.000000
+Performance,DFS-R: Communication Error During Replication
+Performance,DFS Replication service encountered an error communicating with a replication group partner
+Performance,Percentage of Committed Memory in Use is too high
+Performance,threshold of low disk space1 violated: current value 24183.000000
+Performance,Memory Available low: current used 94.8%
